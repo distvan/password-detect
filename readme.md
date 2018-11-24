@@ -2,7 +2,7 @@ The class is created for demonstrating purpose and ethical hacking.
 
 ### Use it for your own responsibility.
 
-### How to protect against brute force attack?
+### How to protect yourself against brute force attack?
 
 - using strong password and well designed password policy
 - using authentication delay between failed attempt
